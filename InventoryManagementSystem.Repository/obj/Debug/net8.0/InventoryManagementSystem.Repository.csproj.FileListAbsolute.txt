@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Repository\bin\Debug\net8.0\InventoryManagementSystem.Repository.deps.json
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Repository\bin\Debug\net8.0\InventoryManagementSystem.Repository.runtimeconfig.json
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Repository\bin\Debug\net8.0\InventoryManagementSystem.Repository.dll
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Repository\bin\Debug\net8.0\InventoryManagementSystem.Repository.pdb
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Repository\bin\Debug\net8.0\InventoryManagementSystem.Domain.dll
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Repository\bin\Debug\net8.0\InventoryManagementSystem.Domain.pdb
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Repository\obj\Debug\net8.0\InventoryManagementSystem.Repository.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Repository\obj\Debug\net8.0\InventoryManagementSystem.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Repository\obj\Debug\net8.0\InventoryManagementSystem.Repository.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Repository\obj\Debug\net8.0\InventoryManagementSystem.Repository.AssemblyInfo.cs
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Repository\obj\Debug\net8.0\InventoryManagementSystem.Repository.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Repository\obj\Debug\net8.0\Inventor.8A65E669.Up2Date
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Repository\obj\Debug\net8.0\InventoryManagementSystem.Repository.dll
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Repository\obj\Debug\net8.0\refint\InventoryManagementSystem.Repository.dll
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Repository\obj\Debug\net8.0\InventoryManagementSystem.Repository.pdb
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Repository\obj\Debug\net8.0\InventoryManagementSystem.Repository.genruntimeconfig.cache
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Repository\obj\Debug\net8.0\ref\InventoryManagementSystem.Repository.dll

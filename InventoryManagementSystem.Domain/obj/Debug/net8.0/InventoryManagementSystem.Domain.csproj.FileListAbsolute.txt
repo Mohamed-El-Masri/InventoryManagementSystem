@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Domain\bin\Debug\net8.0\InventoryManagementSystem.Domain.deps.json
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Domain\bin\Debug\net8.0\InventoryManagementSystem.Domain.dll
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Domain\bin\Debug\net8.0\InventoryManagementSystem.Domain.pdb
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Domain\obj\Debug\net8.0\InventoryManagementSystem.Domain.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Domain\obj\Debug\net8.0\InventoryManagementSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Domain\obj\Debug\net8.0\InventoryManagementSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Domain\obj\Debug\net8.0\InventoryManagementSystem.Domain.AssemblyInfo.cs
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Domain\obj\Debug\net8.0\InventoryManagementSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Domain\obj\Debug\net8.0\InventoryManagementSystem.Domain.dll
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Domain\obj\Debug\net8.0\refint\InventoryManagementSystem.Domain.dll
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Domain\obj\Debug\net8.0\InventoryManagementSystem.Domain.pdb
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Domain\obj\Debug\net8.0\ref\InventoryManagementSystem.Domain.dll

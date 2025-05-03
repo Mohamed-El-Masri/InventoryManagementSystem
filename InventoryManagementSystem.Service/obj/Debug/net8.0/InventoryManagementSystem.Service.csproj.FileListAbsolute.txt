@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Service\bin\Debug\net8.0\InventoryManagementSystem.Service.deps.json
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Service\bin\Debug\net8.0\InventoryManagementSystem.Service.dll
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Service\bin\Debug\net8.0\InventoryManagementSystem.Service.pdb
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Service\bin\Debug\net8.0\InventoryManagementSystem.Domain.dll
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Service\bin\Debug\net8.0\InventoryManagementSystem.Repository.dll
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Service\bin\Debug\net8.0\InventoryManagementSystem.Domain.pdb
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Service\bin\Debug\net8.0\InventoryManagementSystem.Repository.pdb
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Service\obj\Debug\net8.0\InventoryManagementSystem.Service.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Service\obj\Debug\net8.0\InventoryManagementSystem.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Service\obj\Debug\net8.0\InventoryManagementSystem.Service.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Service\obj\Debug\net8.0\InventoryManagementSystem.Service.AssemblyInfo.cs
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Service\obj\Debug\net8.0\InventoryManagementSystem.Service.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Service\obj\Debug\net8.0\Inventor.5419155B.Up2Date
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Service\obj\Debug\net8.0\InventoryManagementSystem.Service.dll
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Service\obj\Debug\net8.0\refint\InventoryManagementSystem.Service.dll
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Service\obj\Debug\net8.0\InventoryManagementSystem.Service.pdb
+C:\Users\HP\Desktop\Task04\InventoryManagementSystem.Service\obj\Debug\net8.0\ref\InventoryManagementSystem.Service.dll
